@@ -1,0 +1,11 @@
+
+.form{
+    background-color: rgb(255, 145, 0);
+position: center;
+text-align: center;
+width: 300px;
+margin: 30vh auto 0 auto;
+padding: 50px;
+border-radius: 5px;
+font-size: 16px;
+}
